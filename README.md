@@ -1,6 +1,6 @@
-![C](https://shields.io)
-![C++](https://shields.io)
-![Git](https://shields.io)
+![SEGA Hacker Animation](https://demolab.com)
+
+
 
 <!--
 **lebaochaucao-ui/lebaochaucao-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
