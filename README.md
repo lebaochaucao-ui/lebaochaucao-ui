@@ -11,9 +11,9 @@
 
 ### 🕰️ Timeline
 - **Since when did I start digging into <span style="color:#0088FF">SEGA</span>?**  
-  > *Since 8 years old, boii! 😎😎😎😎*  
+  > *Since 8 years old, boii 😎😎😎*  
 - **Proof?**  
-  *I have no proof right now... but at least this repository is my first official proof for the future! 🚗😎*  
+  > I have no proof right now... but at least this repository is my first official proof for the future! 🚗😎
 
 ---
 
@@ -25,13 +25,13 @@ Because I absolutely love games published and powered by them, especially:
 
 
   # Boii😎😎 am I need a buddy?
-  ## actually half yes..half no !
-  ### learning cpp alone is good, but not everything is all good..
-  ### but nvm!! who tf gonna vent on a readme??!!?
+  #### actually half yes..half no !
+  #### learning cpp alone is good, but not everything is all good..
+  #### but nvm!! who tf gonna vent on a readme??!!?
 
   # Why am I want to be the <span style="color:#0088FF">SEGA</span>?'s dev so much?
-  ## I did say that I love their peachy game!😎😎😎😎🪽🤺🤺🤺
-  ### and they made my life got better,that's why I want to work at that place so much😈😈💀💀😎😎🪽🪽
+  #### I did say that I love their peachy game!😎😎😎😎🪽🤺🤺🤺
+  ##### and they made my life got better,that's why I want to work at that place so much😈😈💀💀😎😎🪽🪽
 
 # studying hard to be a <span style="color:#0088FF">SEGA</span>? developer!
 ## studying hard to be a <span style="color:#0088FF">SEGA</span>? developer!
