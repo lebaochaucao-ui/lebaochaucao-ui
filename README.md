@@ -3,4 +3,4 @@
 ### CS
 ### dolls
 ### that's who am i
-# AKINENE 
+# SEGA's future dev trust 😎
