@@ -7,4 +7,4 @@
 - Mặc dù là gắn bó với code và công nghệ gần 4 năm, đến tận năm 11 tuổi, mình mới biết Github là gì, lúc trước mình còn tưởng nó là mạng xã hội, tìm hiểu thì mới biết nó là 1 nơi để lưu lại code của mình lúc trước, mình đã làm ngay repository đầu tiên vào ngày 19 tháng 6 2026
 - 1 phần cũng tại vì lúc tháng 5 (thuyết trình sản phẩm cuối khóa) Học ở MindX, lỡ duyên với lớp Python lúc đầu nhưng sau đó lọt hố C/C++
 
-# KEEP YOUR PASSION UP, THAT IS WHAT YOU WAS BORN FOR
+  
